@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xueenwu
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Android development
+- 🌱 I’m currently learning Android development @ Meta
 - 💞️ I’m looking to collaborate on a website
 - 📫 How to reach me: email!
 <!---
