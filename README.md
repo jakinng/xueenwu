@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakin
-- 👀 I’m interested in machine learning, climate research, and data visualization
+- 👀 I’m interested in scientific machine learning
 - 🌱 I’m currently learning [how to make (almost) anything](http://fab.cba.mit.edu/classes/MAS.863/Architecture/people/Jakin/index.html) at MIT!
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 How to reach me: [email](jakinng@mit.edu)
